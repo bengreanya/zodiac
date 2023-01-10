@@ -7,5 +7,5 @@ import background from '../../background.jpeg';
 // import React from 'react';
 
 export default function Main() {
-  return <div style={{ backgroundImage: `url(${background})` }}>something</div>;
+  return <main style={{ backgroundImage: `url(${background})` }}>something</main>;
 }
