@@ -20,7 +20,7 @@ export const zodiac = [
   {
     id: '4',
     name: 'capricorn',
-    dates: 'Dec 22 - Feb 19',
+    dates: 'Dec 22 - Jan 19',
     symbol: 'Goat',
   },
   {
