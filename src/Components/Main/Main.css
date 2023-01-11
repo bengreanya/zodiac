@@ -1,8 +1,11 @@
 main {
   display: flex;
   flex-wrap: wrap;
+  contain: content;
+  overflow: auto;
   background-size: cover;
-  height: 850px;
-  align-content: flex-start;
+  height: calc(100vh - 120px);
+  align-content: space-around;
   position: relative;
+  z-index: 0;
 }
