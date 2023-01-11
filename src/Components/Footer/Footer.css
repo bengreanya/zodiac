@@ -2,7 +2,7 @@ footer {
   color: pink;
   font-size: 40px;
   height: 80px;
-  background-color: rebeccapurple;
+  background: linear-gradient(rgb(86, 48, 121), rgb(49, 17, 79));
   z-index: 1;
   width: 100%;
 }

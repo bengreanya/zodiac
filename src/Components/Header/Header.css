@@ -2,5 +2,5 @@ header {
   color: pink;
   font-size: 40px;
   height: 60px;
-  background-color: rebeccapurple;
+  background: linear-gradient(rgb(49, 17, 79), rgb(86, 48, 121));
 }
