@@ -1,0 +1,14 @@
+main {
+  display: flex;
+  flex-wrap: wrap;
+  overflow: auto;
+  background-size: cover;
+  align-content: space-around;
+  position: relative;
+  /* z-index: 0; */
+}
+@media (min-width: 1500px) {
+  main {
+    height: 100vh;
+  }
+}
